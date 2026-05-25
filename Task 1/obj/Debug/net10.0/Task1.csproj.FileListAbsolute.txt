@@ -1,0 +1,4 @@
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task1/obj/Debug/net10.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task1/obj/Debug/net10.0/Task1.AssemblyInfoInputs.cache
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task1/obj/Debug/net10.0/Task1.AssemblyInfo.cs
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task1/obj/Debug/net10.0/Task1.csproj.CoreCompileInputs.cache
