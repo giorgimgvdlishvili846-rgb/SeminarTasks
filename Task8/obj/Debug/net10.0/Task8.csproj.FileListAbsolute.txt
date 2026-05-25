@@ -1,0 +1,15 @@
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/bin/Debug/net10.0/Task8
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/bin/Debug/net10.0/Task8.deps.json
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/bin/Debug/net10.0/Task8.runtimeconfig.json
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/bin/Debug/net10.0/Task8.dll
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/bin/Debug/net10.0/Task8.pdb
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/Task8.AssemblyInfoInputs.cache
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/Task8.AssemblyInfo.cs
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/Task8.csproj.CoreCompileInputs.cache
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/Task8.sourcelink.json
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/Task8.dll
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/refint/Task8.dll
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/Task8.pdb
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/Task8.genruntimeconfig.cache
+/Users/giorgi/Desktop/Tetris/MyfirstTasks/SeminarTasks/Task8/obj/Debug/net10.0/ref/Task8.dll
