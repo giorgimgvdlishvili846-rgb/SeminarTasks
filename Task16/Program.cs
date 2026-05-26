@@ -1,4 +1,6 @@
-﻿namespace Task16;
+﻿using System;
+
+namespace Task16;
 
 class Program
 {
@@ -7,22 +9,22 @@ class Program
         Console.WriteLine("Enter the String");
         string input = Console.ReadLine();
         Console.WriteLine($"You entered: {input}");
-        int max1=0;
-        int maxtemp;
-        string maxchar;
-        string maxchartemp;
-        while (true)
+       
+        // სანამ სტრინგი ცარიელი არ გახდება
+        while (input.Length > 0)
         {
-            for (int i = 0; i < input.Length; i++)
-            {
-                char c = input[0];
-                
-
-            }
+            char ch = input[0]; // ვიღებთ მიმდინარე პირველ სიმბოლოს
             
+            int oldLength = input.Length; // ვინახავთ ძველ სიგრძეს
+            
+            input = input.Replace(ch.ToString(), ""); // ვშლით ამ სიმბოლოს ყველგან
+            
+            int newLength = input.Length; // ვიგებთ ახალ სიგრძეს
+            
+            // სხვაობა გვაძლევს ზუსტად იმას, თუ რამდენჯერ შეგვხვდა ეს სიმბოლო
+            int counter = oldLength - newLength; 
+           
+            Console.WriteLine($"The character '{ch}' appears {counter} times in the string.");
         }
-
-
-
     }
 }
